@@ -7,6 +7,7 @@
 - 遍历src中的文件，监听变化，替换成微信小程序能识别的wxss，
 - 基于babel，gulp
 - 微信开发工具支持es6开发，所以就没用babel转换,转换后很容易超过1M的限制。
+
 ## 使用
 ```
 sudo npm install -g gulp
